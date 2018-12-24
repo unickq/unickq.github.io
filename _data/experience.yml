@@ -1,0 +1,35 @@
+- company: Valtech_
+  link: www.valtech.com
+  job_title: Test Automation Engineer
+  dates: Jan 2017 - Present
+  quote: >
+   Grow relationships with your customers through Valtech’s innovations
+  description: |
+    Dotnet based test automation for web applications. Continuous integration setup/support. 
+
+- company: Aginity
+  link: www.aginity.com
+  job_title: Test Automation Engineer
+  dates: Aug 2014 - Jan 2017
+  quote: >
+   The Missing Layer in Enterprise Analytics. Find, create, and share analytics across the enterprise with all the tools you love
+  description: |
+    UI testing tools development for desktop application with C#. Web-based testing with Java and Clojure. Continuous integration setup for testing, deployment, reporting. Working with Hadoop, DashDb, Netezza dbs.
+
+- company: DB Best Technologies
+  link: www.dbbest.com
+  job_title: Test Engineer
+  dates: Jan 2014 - Aug 2014
+  quote: >
+   Managing data and application anywhere
+  description: |
+    Manual testing activites. Web/Desktop/Mobile. First steps in test automation
+
+- company: Freelance 
+  link: www.upwork.com/freelancers/~0189ad6b3f24373c92
+  job_title: Test Automation/CI services
+  dates: then and now
+  quote: >
+   Helping people by testing, tools creation, consulting.
+  description: |
+    Test automation activities, bots creation, different technologies.

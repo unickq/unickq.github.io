@@ -1,0 +1,14 @@
+- name: Allure NUnit
+  # link: unickq/allure-nunit
+  github: unickq/allure-nunit
+  quote: >
+    Probably my most widely used lib I'm proud of.
+  description: | 
+    Lib allows to use all Allure Reporting features within NUnit framework.
+
+- name: SpecFlow.Selenium.Plugin
+  github: unickq/SpecFlow.Selenium.Plugin
+  quote: >
+    Helps executing SpecFlow Selenium bdd scenarios. Some people found it useful.
+  description: | 
+    Forked unsupported SpecFlow plugin and added more features in order to make life easier for SpecFlow testing.

@@ -1,0 +1,65 @@
+# Site
+repository: unickq/unickq.github.io
+favicon: images/favicon.ico
+
+# Personal info
+name: Nick Chursin
+title: Software Engineer In Test
+email: nicktestqa@yahoo.com
+# website: github.com/unickq
+
+# Social links
+github_username:  unickq
+facebook_username: jffnick
+instagram_username: unickq
+linkedin_username: nicktestqa
+
+# About Section
+# about_title: About Me
+about_profile_image: images/photo.jpeg
+about_content: |
+  Hi, my name is Nick and I'm a Test Automation engineer. As well as creating test automation solutions I also have experience making software and CI stuff. I have worked at a number of companies gaining teamwork and leadership skills.
+
+  Everyday I work with: <mark>C#</mark>, <mark>JavaScript</mark>. <mark>Selenium</mark>. <mark>Jenkins</mark>, <mark>BDD</mark>. 
+  
+
+  Buzz words - tools I used to work or use rarely: 
+
+  <mark>Selenium</mark>, <mark>Appium</mark>, <mark>Win UI Automation</mark>, <mark>Puppeter</mark>. 
+
+  <mark>Java</mark>, <mark>TypeScript</mark>, <mark>Clojure</mark>, <mark>Python</mark>. 
+
+  <mark>Docker</mark>. <mark>TeamCity</mark>, <mark>CircleCI</mark>, <mark>Appveyor</mark>. <mark>AWS</mark>, <mark>Azure</mark>. 
+
+  <mark>Hadoop</mark>, <mark>MsSQL</mark>, <mark>MongoDB</mark>.
+
+  <mark>JMeter</mark>, <mark>Fiddler</mark>.
+# Projects Section
+projects_title: OpenSource Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in software testing some of my other interests and hobbies are:
+   - Music
+   - Gaming
+   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
