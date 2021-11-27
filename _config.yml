@@ -5,13 +5,13 @@ favicon: images/favicon.ico
 # Personal info
 name: Nick Chursin
 title: Software Engineer In Test
-email: nicktestqa@yahoo.com
+email: unickq@outlook.com
 # website: github.com/unickq
 
 # Social links
 github_username: unickq
-facebook_username: jffnick
-instagram_username: unickq
+# facebook_username: jffnick
+stackoverflow_username: "4170608"
 linkedin_username: unickq
 
 # About Section
@@ -20,20 +20,22 @@ about_profile_image: images/photo.jpeg
 about_content: |
   Hi, my name is Nick and I'm a Test Automation engineer. As well as creating test automation solutions, I also have experience making bots, scrapers software and CI stuff. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  Everyday I work with: <mark>TypeScript</mark>, <mark>webdriverIO</mark>, <mark>Jenkins</mark>, <mark>Docker</mark>. 
+  Everyday I work with: <mark>TypeScript</mark>, <mark>WebdriverIO</mark>, <mark>Appium</mark>, <mark>CircleCI</mark>, <mark>Jenkins</mark>, <mark>Docker</mark>. 
 
 
-  Buzz words - tools I used to work or use rarely: 
+  Buzz words - other tools I work with: 
 
-  <mark>Selenium</mark>, <mark>Appium</mark>, <mark>Win UI Automation</mark>, <mark>Puppeter</mark>. 
+  <mark>Selenium</mark>, <mark>Appium</mark>, <mark>Puppeteer</mark>, <mark>Cypress</mark>, <mark>Playwrigh</mark>, <mark>Protractor</mark>. 
 
-  <mark>Java</mark>, <mark>C#</mark>, <mark>Python</mark>. 
+  <mark>C#</mark>, <mark>Javascrip</mark>, <mark>Java</mark>. 
 
-  <mark>Docker</mark>. <mark>TeamCity</mark>, <mark>CircleCI</mark>, <mark>Appveyor</mark>. <mark>AWS</mark>, <mark>Azure</mark>. 
+  <mark>Docker</mark>, <mark>CircleCI</mark>, <mark>GitHub Actions</mark>, <mark>Jenkins</mark>, <mark>Appveyor</mark>. <mark>AWS</mark>, <mark>Azure</mark>. 
 
   <mark>PostgreSQL</mark>, <mark>MsSQL</mark>, <mark>MongoDB</mark>.
 
-  <mark>JMeter</mark>, <mark>Fiddler</mark>.
+  <mark>JMeter</mark>, <mark>Fiddler</mark>, <mark>Postman</mark>.
+
+  <mark>React</mark>, <mark>Express</mark>, <mark>MongoDB</mark>, <mark>Jest</mark>.
 # Projects Section
 projects_title: OpenSource Projects
 
@@ -50,6 +52,8 @@ projects_title: OpenSource Projects
 #    - Music
 #    - Gaming
 #    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+darkmode: never
 
 # Footer
 footer_show_references: false

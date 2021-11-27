@@ -1,29 +1,32 @@
 - company: Bolt
   link: www.bolt.com
-  job_title: Test Automation Engineer
+  job_title: Test Automation Engineer | SDET
   dates: Nov 2019 - Present
   quote: >
     Established and growing retailers partner with Bolt to convert, retain, and delight their customers.
   description: |
-    Automated testing activities for checkout platform startup.
+    Automated testing activities for One Click Checkout startup.
+    TS, React, WebdriverIO, CircleCI, Jenkins.
 
 - company: Valtech_
   link: www.valtech.com
-  job_title: Test Automation Engineer
+  job_title: Test Automation Engineer | SDET
   dates: Jan 2017 - Nov 2019
   quote: >
     Grow relationships with your customers through Valtech’s innovations
   description: |
     Dotnet based test automation for web applications. Continuous integration setup/support.
+    Sitecore, Vue, Selenium, dotnet, BDD, Jenkins, Azure, Postman, BlazeMeter.
 
 - company: Aginity
   link: www.aginity.com
-  job_title: Test Automation Engineer
+  job_title: Test Automation Engineer | SDET
   dates: Aug 2014 - Jan 2017
   quote: >
     The Missing Layer in Enterprise Analytics. Find, create, and share analytics across the enterprise with all the tools you love
   description: |
-    UI testing tools development for desktop application with C#. Web-based testing with Java and Clojure. Continuous integration setup for testing, deployment, reporting. Working with Hadoop, DashDb, Netezza dbs.
+    UI testing tools development for desktop application with C#. Web-based testing. Continuous integration setup for testing, deployment, reporting.
+    C#, Java/Clojure, WinUiAutomation, Selenium, Python, BigData, Jenkins, SQL, Jmeter.
 
 - company: DB Best Technologies
   link: www.dbbest.com
