@@ -53,7 +53,7 @@ projects_title: OpenSource Projects
 #    - Gaming
 #    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-darkmode: never
+# darkmode: never
 
 # Footer
 footer_show_references: false
