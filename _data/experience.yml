@@ -6,6 +6,7 @@
     Established and growing retailers partner with Bolt to convert, retain, and delight their customers.
   description: |
     Automated testing activities for One Click Checkout startup.
+
     TS, React, WebdriverIO, CircleCI, Jenkins.
 
 - company: Valtech_
@@ -16,6 +17,7 @@
     Grow relationships with your customers through Valtech’s innovations
   description: |
     Dotnet based test automation for web applications. Continuous integration setup/support.
+
     Sitecore, Vue, Selenium, dotnet, BDD, Jenkins, Azure, Postman, BlazeMeter.
 
 - company: Aginity
@@ -26,6 +28,7 @@
     The Missing Layer in Enterprise Analytics. Find, create, and share analytics across the enterprise with all the tools you love
   description: |
     UI testing tools development for desktop application with C#. Web-based testing. Continuous integration setup for testing, deployment, reporting.
+
     C#, Java/Clojure, WinUiAutomation, Selenium, Python, BigData, Jenkins, SQL, Jmeter.
 
 - company: DB Best Technologies
@@ -35,7 +38,7 @@
   quote: >
     Managing data and application anywhere
   description: |
-    Manual testing activites. Web/Desktop/Mobile. First steps in test automation
+    Manual testing activites. Web/Desktop/Mobile. First steps in test automation. API Testing.
 
 - company: Freelance
   link: www.upwork.com/fl/unickq
@@ -45,3 +48,5 @@
     Helping people by testing, tools creation, consulting.
   description: |
     Test automation activities, bots, scrapers.
+
+    Javascript, TypeScript, C#, Java. Selenium, Appium, WebdriverIO, Playwright, Puppeteer. API

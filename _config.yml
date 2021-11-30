@@ -18,23 +18,27 @@ linkedin_username: unickq
 # about_title: About Me
 about_profile_image: images/photo.jpeg
 about_content: |
-  Hi, my name is Nick and I'm a Test Automation engineer. As well as creating test automation solutions, I also have experience making bots, scrapers software and CI stuff. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Nick. I’m a software developer in test with over 8 years of experience specializing in UI, Mobile, and API testing automation. As well as creating test automation solutions, I also have experience making bots, scrapers software, and CI stuff.
+  I have worked with various languages and frameworks, and I am always looking for opportunities to work with something new.
+  
+  The things that I currently have the most experience working with are: <mark>TypeScript</mark>, <mark>C#</mark>, <mark>WebdriverIO</mark>, <mark>Appium</mark>, <mark>Selenium</mark>, <mark>CircleCI</mark>, <mark>Jenkins</mark>, <mark>Docker</mark>, <mark>git</mark> and <mark>AWS</mark>. 
 
-  Everyday I work with: <mark>TypeScript</mark>, <mark>WebdriverIO</mark>, <mark>Appium</mark>, <mark>CircleCI</mark>, <mark>Jenkins</mark>, <mark>Docker</mark>. 
 
-
+  
   Buzz words - other tools I work with: 
 
   <mark>Selenium</mark>, <mark>Appium</mark>, <mark>Puppeteer</mark>, <mark>Cypress</mark>, <mark>Playwrigh</mark>, <mark>Protractor</mark>. 
-
-  <mark>C#</mark>, <mark>Javascrip</mark>, <mark>Java</mark>. 
-
-  <mark>Docker</mark>, <mark>CircleCI</mark>, <mark>GitHub Actions</mark>, <mark>Jenkins</mark>, <mark>Appveyor</mark>. <mark>AWS</mark>, <mark>Azure</mark>. 
-
+  
+  <mark>C#</mark>, <mark>JavaScript</mark>, <mark>Java</mark>. 
+  
+  <mark>Docker</mark>, <mark>CircleCI</mark>, <mark>GitHub Actions</mark>, <mark>Jenkins</mark>, <mark>Appveyor</mark>. 
+  
+  <mark>AWS</mark>, <mark>Azure</mark>. 
+  
   <mark>PostgreSQL</mark>, <mark>MsSQL</mark>, <mark>MongoDB</mark>.
-
+  
   <mark>JMeter</mark>, <mark>Fiddler</mark>, <mark>Postman</mark>.
-
+  
   <mark>React</mark>, <mark>Express</mark>, <mark>MongoDB</mark>, <mark>Jest</mark>.
 # Projects Section
 projects_title: OpenSource Projects
