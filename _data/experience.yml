@@ -1,13 +1,15 @@
 - company: Bolt
   link: www.bolt.com
-  job_title: Test Automation Engineer | SDET
+  job_title: Software Development Engineer In Test
   dates: Nov 2019 - Present
   quote: >
-    Established and growing retailers partner with Bolt to convert, retain, and delight their customers.
+    CheckoutOS. One-click checkout for everyone. Fast. Secure. Simple.
   description: |
-    Automated testing activities for One Click Checkout startup.
-
-    TS, React, WebdriverIO, CircleCI, Jenkins.
+    - Implemented front-end test automation for payment checkout system with integration to 3rd party eCommerce platforms
+    - Designed and build a continuous testing system for daily builds supporting different code revisions and environments
+    - Migrated existing tests codebase from Selenium to Playwright which increased testing stability by 60%
+  
+    *Typescript, Playwright, WebdriverIO, React, CircleCI, Jenkins, Docker*
 
 - company: Valtech_
   link: www.valtech.com
@@ -16,7 +18,9 @@
   quote: >
     Grow relationships with your customers through Valtech’s innovations
   description: |
-    Dotnet based test automation for web applications. Continuous integration setup/support.
+    - Implemented test automation for largest French personal care company
+    - Implemented a distributed web stress test tool
+    - Built and deployed overall service infrastructure 
 
     Sitecore, Vue, Selenium, dotnet, BDD, Jenkins, Azure, Postman, BlazeMeter.
 
@@ -27,9 +31,11 @@
   quote: >
     The Missing Layer in Enterprise Analytics. Find, create, and share analytics across the enterprise with all the tools you love
   description: |
-    UI testing tools development for desktop application with C#. Web-based testing. Continuous integration setup for testing, deployment, reporting.
+    - Implemented front-end test automation for desktop BigData management application
+    - Built CI/CD pipelines for testing and delivery
+    - Increased delivery time by 40% with test automation
 
-    C#, Java/Clojure, WinUiAutomation, Selenium, Python, BigData, Jenkins, SQL, Jmeter.
+    *C#, Java/Clojure, WinUiAutomation, Selenium, Python, BigData, Jenkins, SQL, JMeter*
 
 - company: DB Best Technologies
   link: www.dbbest.com
@@ -38,7 +44,10 @@
   quote: >
     Managing data and application anywhere
   description: |
-    Manual testing activites. Web/Desktop/Mobile. First steps in test automation. API Testing.
+    - Performed manual testing for mobile applications
+    - Implemented API testing and covered 90% of project needs 
+
+    *Java, Selenium, Postman, AWS, SQL*
 
 - company: Freelance
   link: www.upwork.com/fl/unickq
@@ -47,6 +56,9 @@
   quote: >
     Helping people by testing, tools creation, consulting.
   description: |
-    Test automation activities, bots, scrapers.
+    - Designed and built test automation and CI/CD systems for 20+ web/mobile/desktop projects
+    - Migrated dotnet framework project to dotnet core
+    - Helped in migration to AWS of large eCommerce project
+    - Build a distributed testing system to decrease clients' costs on Browserstack
 
     Javascript, TypeScript, C#, Java. Selenium, Appium, WebdriverIO, Playwright, Puppeteer. API
