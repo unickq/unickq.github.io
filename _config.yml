@@ -3,8 +3,8 @@ repository: unickq/unickq.github.io
 favicon: images/favicon.ico
 
 # Personal info
-name: Nick Chursin
-title: Software Engineer In Test
+name: Mykyta Chursin
+title: Software Development Engineer in Test
 email: job@unickq.me
 website: cv.unickq.me
 
@@ -18,28 +18,29 @@ linkedin_username: unickq
 # about_title: About Me
 about_profile_image: images/photo.jpeg
 about_content: |
-  Hi, my name is Nick. I’m a software developer in test with over 10 years of experience specializing in UI, Mobile, and API testing automation. As well as creating test automation solutions, I also have experience making bots, scrapers software, and CI stuff.
-  I have worked with various languages and frameworks, and I am always looking for opportunities to work with something new.
+  Hey there! I'm an experienced Software Development Engineer in Test (SDET) with 10 years in the industry. Expertise in web, mobile, desktop, and API automated testing. Skilled in designing test strategies and implementing automation solutions. Strong problem-solving and communication abilities. Passionate about delivering reliable software solutions. Let's make magic together!
   
-  The things that I currently have the most experience working with are: <mark>TypeScript</mark>, <mark>Playwright</mark>, <mark>WebdriverIO</mark>, <mark>CircleCI</mark>. 
-
-
+  I have the most experience working with  <mark>TypeScript</mark>, <mark>Playwright</mark>, <mark>WebdriverIO</mark>, <mark>CircleCI</mark> delivering Web/Mobile/Api automation
   
-  Buzz words - other tools I sometimes work with: 
+  Other tools that I occasionally use are:
 
-  <mark>Selenium</mark>, <mark>Appium</mark>, <mark>Puppeteer</mark>, <mark>Cypress</mark>, <mark>Playwrigh</mark>. 
+  <mark>Selenium</mark>, <mark>Appium</mark>, <mark>Puppeteer</mark>, <mark>Cypress</mark>. 
   
   <mark>C#/Dotnet</mark>, <mark>JavaScript</mark>, <mark>Java</mark>, <mark>GoLang</mark>. 
   
-  <mark>Docker</mark>, <mark>CircleCI</mark>, <mark>GitHub Actions</mark>, <mark>Jenkins</mark>, <mark>Appveyor</mark>. 
+  <mark>CircleCI</mark>, <mark>GitHub Actions</mark>, <mark>Jenkins</mark>, <mark>Appveyor</mark>. 
   
   <mark>AWS</mark>, <mark>Azure</mark>, <mark>Google Cloud</mark>. 
   
   <mark>PostgreSQL</mark>, <mark>MsSQL</mark>, <mark>MongoDB</mark>.
   
+  <mark>Docker</mark>, <mark>k8</mark>.
+  
   <mark>JMeter</mark>, <mark>Fiddler</mark>, <mark>Postman</mark>, <mark>Burp Suite</mark>, <mark>k6</mark>.
   
-  <mark>Svelte</mark>, <mark>Vue</mark>, <mark>Supabase</mark>, <mark>Firebase</mark>.
+  <mark>Svelte</mark>, <mark>Vue</mark>, <mark>Supabase</mark>, <mark>Firebase</mark>, <mark>Electron</mark>.
+  
+  <mark>Copilot</mark>, <mark>ChatGPT</mark>.
 # Projects Section
 projects_title: OpenSource Projects
 
