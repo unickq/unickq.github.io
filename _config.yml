@@ -20,27 +20,27 @@ about_profile_image: images/photo.jpeg
 about_content: |
   Hey there! I'm an experienced Software Development Engineer in Test (SDET) with 10 years in the industry. Expertise in web, mobile, desktop, and API automated testing. Skilled in designing test strategies and implementing automation solutions. Strong problem-solving and communication abilities. Passionate about delivering reliable software solutions. Let's make magic together!
   
-  I have the most experience working with  <mark>TypeScript</mark>, <mark>Playwright</mark>, <mark>WebdriverIO</mark>, <mark>CircleCI</mark> delivering Web/Mobile/Api automation
+  I have the most experience working with  <mark>TypeScript</mark>, <mark>Playwright</mark>, <mark>WebdriverIO</mark>, <mark>CircleCI</mark>
   
   Other tools that I occasionally use are:
 
-  <mark>Selenium</mark>, <mark>Appium</mark>, <mark>Puppeteer</mark>, <mark>Cypress</mark>. 
+  <mark>Selenium</mark>, <mark>Appium</mark>, <mark>Puppeteer</mark>, <mark>Cypress</mark>
   
-  <mark>C#/Dotnet</mark>, <mark>JavaScript</mark>, <mark>Java</mark>, <mark>GoLang</mark>. 
+  <mark>C#/Dotnet</mark>, <mark>JavaScript</mark>, <mark>Java</mark>, <mark>GoLang</mark>
   
-  <mark>CircleCI</mark>, <mark>GitHub Actions</mark>, <mark>Jenkins</mark>, <mark>Appveyor</mark>. 
+  <mark>CircleCI</mark>, <mark>GitHub Actions</mark>, <mark>Jenkins</mark>, <mark>Appveyor</mark>
   
-  <mark>AWS</mark>, <mark>Azure</mark>, <mark>Google Cloud</mark>. 
+  <mark>AWS</mark>, <mark>Azure</mark>, <mark>Google Cloud</mark>
   
-  <mark>PostgreSQL</mark>, <mark>MsSQL</mark>, <mark>MongoDB</mark>.
+  <mark>PostgreSQL</mark>, <mark>MsSQL</mark>, <mark>MongoDB</mark>
   
-  <mark>Docker</mark>, <mark>k8</mark>.
+  <mark>Docker</mark>, <mark>k8</mark>
   
-  <mark>JMeter</mark>, <mark>Fiddler</mark>, <mark>Postman</mark>, <mark>Burp Suite</mark>, <mark>k6</mark>.
+  <mark>JMeter</mark>, <mark>Fiddler</mark>, <mark>Postman</mark>, <mark>Burp Suite</mark>, <mark>k6</mark>
   
-  <mark>Svelte</mark>, <mark>Vue</mark>, <mark>Supabase</mark>, <mark>Firebase</mark>, <mark>Electron</mark>.
+  <mark>Svelte</mark>, <mark>Vue</mark>, <mark>Supabase</mark>, <mark>Firebase</mark>, <mark>Electron</mark>
   
-  <mark>Copilot</mark>, <mark>ChatGPT</mark>.
+  <mark>Copilot</mark>, <mark>ChatGPT</mark>
 # Projects Section
 projects_title: OpenSource Projects
 
