@@ -1,64 +1,63 @@
 - company: Bolt
-  link: www.bolt.com
-  job_title: Software Development Engineer In Test
-  dates: Nov 2019 - Present
-  quote: >
-    CheckoutOS. One-click checkout for everyone. Fast. Secure. Simple.
+  link: https://www.bolt.com
+  job_title: Software Development Engineer in Test
+  dates: Nov 2019 – Present
   description: |
-    - Implemented front-end test automation for payment checkout system with integration to 3rd party eCommerce platforms
-    - Designed and build a continuous testing system for daily builds supporting different code revisions and environments
-    - Migrated existing tests codebase from Selenium to Playwright which increased testing stability by 60%
-  
-    *Typescript, Playwright, WebdriverIO, React, CircleCI, Jenkins, Docker*
+    - Technical owner for quality enablement across CheckoutOS, operating across multiple product teams (web, mobile, backend) in a high-traffic, consumer-facing fintech platform.
+    - Designed and evolved reusable automation frameworks and quality platforms for critical payment and checkout flows, including third-party eCommerce integrations.
+    - Built and maintained automated test coverage for iOS and Android applications, aligned with shared Kotlin Multiplatform (KMP) architecture.
+    - Contributed to Kotlin Multiplatform development, collaborating on shared business logic and testability improvements beyond pure testing concerns.
+    - Led the migration from Selenium-based frameworks to Playwright, reducing flakiness by ~60% and improving execution speed and reliability.
+    - Defined and enforced CI/CD quality gates using GitHub Actions, CircleCI, and Jenkins to support fast, safe, and frequent production releases.
+    - Introduced and supported load and resilience testing practices using k6 for critical backend and payment flows.
+    - Acted as a cross-team quality and testing architecture advisor, balancing delivery speed with long-term system stability.
 
-- company: Valtech_
-  link: www.valtech.com
+    *TypeScript, Playwright, WebdriverIO, Appium, Kotlin Multiplatform, iOS, Android, GitHub Actions, CircleCI, Jenkins, Docker, k6*
+
+- company: Valtech
+  link: https://www.valtech.com
   job_title: Test Automation Engineer | SDET
-  dates: Jan 2017 - Nov 2019
-  quote: >
-    Grow relationships with your customers through Valtech’s innovations
+  dates: Jan 2017 – Nov 2019
   description: |
-    - Implemented test automation for largest French personal care company
-    - Implemented a distributed web stress test tool
-    - Built and deployed overall service infrastructure 
+    - Designed and implemented automation frameworks for large-scale enterprise platforms used by global consumer brands.
+    - Built distributed performance and stress-testing systems to validate scalability and production readiness.
+    - Contributed to CI/CD infrastructure supporting automated testing and delivery pipelines.
+    - Worked in complex enterprise environments with legacy systems, multiple integrations, and strict quality requirements.
 
-    Sitecore, Vue, Selenium, dotnet, BDD, Jenkins, Azure, Postman, BlazeMeter.
+    *Sitecore, Vue, Selenium, .NET, BDD, Jenkins, Azure, Postman, BlazeMeter*
 
 - company: Aginity
-  link: www.aginity.com
+  link: https://www.aginity.com
   job_title: Test Automation Engineer | SDET
-  dates: Aug 2014 - Jan 2017
-  quote: >
-    The Missing Layer in Enterprise Analytics. Find, create, and share analytics across the enterprise with all the tools you love
+  dates: Aug 2014 – Jan 2017
   description: |
-    - Implemented front-end test automation for desktop BigData management application
-    - Built CI/CD pipelines for testing and delivery
-    - Increased delivery time by 40% with test automation
+    - Built automation frameworks for a complex desktop Big Data management and analytics application.
+    - Introduced automated regression and integration testing, reducing delivery time by approximately 40%.
+    - Designed CI/CD pipelines to support reliable testing and release workflows.
+    - Worked closely with data-intensive systems, large datasets, and enterprise customers.
 
-    *C#, Java/Clojure, WinUiAutomation, Selenium, Python, BigData, Jenkins, SQL, JMeter*
+    *C#, Java, Clojure, WinUI Automation, Selenium, Python, SQL, Big Data, Jenkins, JMeter*
 
 - company: DB Best Technologies
-  link: www.dbbest.com
+  link: https://www.dbbest.com
   job_title: Test Engineer
-  dates: Jan 2014 - Aug 2014
-  quote: >
-    Managing data and application anywhere
+  dates: Jan 2014 – Aug 2014
   description: |
-    - Performed manual testing for mobile applications
-    - Implemented API testing and covered 90% of project needs 
+    - Performed manual, exploratory, and API testing for backend- and mobile-focused applications.
+    - Built early API test coverage supporting the majority of functional validation needs.
+    - Developed foundational understanding of backend services, databases, and cloud infrastructure.
 
     *Java, Selenium, Postman, AWS, SQL*
 
-- company: Freelance
-  link: www.upwork.com/fl/unickq
-  job_title: Test Automation/CI services
-  dates: then and now
-  quote: >
-    Helping people by testing, tools creation, consulting.
+- company: Freelance / Consulting
+  link: https://www.upwork.com/fl/unickq
+  job_title: Test Automation & CI/CD Consultant
+  dates: Ongoing
   description: |
-    - Designed and built test automation and CI/CD systems for 20+ web/mobile/desktop projects
-    - Migrated dotnet framework project to dotnet core
-    - Helped in migration to AWS of large eCommerce project
-    - Build a distributed testing system to decrease clients' costs on Browserstack
+    - Acted as a technical advisor on test automation architecture and CI/CD strategy for 20+ web, mobile, and desktop projects.
+    - Designed and implemented reusable automation frameworks aligned with team scale and product maturity.
+    - Migrated legacy .NET Framework systems to .NET Core and modern CI/CD pipelines.
+    - Supported large-scale eCommerce migrations to AWS-based infrastructure.
+    - Built distributed testing platforms to reduce reliance on third-party device farms and lower operational costs.
 
-    Javascript, TypeScript, C#, Java. Selenium, Appium, WebdriverIO, Playwright, Puppeteer. API
+    *TypeScript, JavaScript, C#, Java, Playwright, WebdriverIO, Selenium, Appium, Puppeteer, API Testing*

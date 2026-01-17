@@ -1,7 +1,17 @@
 - name: Allure NUnit
-  # link: unickq/allure-nunit
   github: unickq/allure-nunit
-  quote: >
-    Probably my most widely used lib I'm proud of.
   description: |
-    A lib, that allows to use all Allure Reporting features within NUnit framework. Brings Allure support to dotnet world 🔥
+    Designed and implemented a production-ready integration between NUnit and Allure Reporting, enabling rich test reporting capabilities for .NET-based automation frameworks.
+    The library is used by multiple teams and projects to standardize test reporting, improve debugging, and increase visibility into automated test results.
+    Focused on clean API design, extensibility, and long-term maintainability.
+
+    *C#, .NET, NUnit, Allure, Test Framework Design*
+
+- name: WebdriverIO Android Video Reporter
+  github: unickq/wdio-adb-video-reporter
+  description: |
+    Built a custom WebdriverIO reporter that records Android device screen video during test execution using ADB.
+    The tool improves failure analysis and reduces investigation time for flaky or device-specific mobile issues.
+    Designed to integrate seamlessly into existing WebdriverIO-based mobile automation pipelines.
+
+    *JavaScript, WebdriverIO, Android, ADB, Mobile Test Tooling*

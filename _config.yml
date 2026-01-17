@@ -5,60 +5,46 @@ favicon: images/favicon.ico
 # Personal info
 name: Mykyta Chursin
 title: Software Development Engineer in Test
-email: job@unickq.me
-website: cv.unickq.me
+email: work@unickq.me
 
 # Social links
 github_username: unickq
-# facebook_username: jffnick
-stackoverflow_username: "4170608"
+# stackoverflow_username: "4170608"
 linkedin_username: unickq
+
+additional_links:
+  - title: Download PDF
+    icon: fas fa-file-pdf
+    url: https://kt.unickq.me/cv
 
 # About Section
 # about_title: About Me
 about_profile_image: images/photo.jpeg
 about_content: |
-  Hey there! I'm an experienced Software Development Engineer in Test (SDET) with 10 years in the industry. Expertise in web, mobile, desktop, and API automated testing. Skilled in designing test strategies and implementing automation solutions. Strong problem-solving and communication abilities. Passionate about delivering reliable software solutions. Let's make magic together!
-  
-  I have the most experience working with  <mark>TypeScript</mark>, <mark>Playwright</mark>, <mark>WebdriverIO</mark>, <mark>CircleCI</mark>
-  
-  Other tools that I occasionally use are:
+  Senior Software Development Engineer in Test with 14+ years of experience designing and evolving quality platforms, automation frameworks, and cross-platform testing solutions for large-scale web, mobile, desktop, and API-driven products, including consumer-facing fintech platforms.
 
-  <mark>Selenium</mark>, <mark>Appium</mark>, <mark>Puppeteer</mark>, <mark>Cypress</mark>
-  
-  <mark>C#/Dotnet</mark>, <mark>JavaScript</mark>, <mark>Java</mark>, <mark>GoLang</mark>
-  
-  <mark>CircleCI</mark>, <mark>GitHub Actions</mark>, <mark>Jenkins</mark>, <mark>Appveyor</mark>
-  
-  <mark>AWS</mark>, <mark>Azure</mark>, <mark>Google Cloud</mark>
-  
-  <mark>PostgreSQL</mark>, <mark>MsSQL</mark>, <mark>MongoDB</mark>
-  
-  <mark>Docker</mark>, <mark>k8</mark>
-  
-  <mark>JMeter</mark>, <mark>Fiddler</mark>, <mark>Postman</mark>, <mark>Burp Suite</mark>, <mark>k6</mark>
-  
-  <mark>Svelte</mark>, <mark>Vue</mark>, <mark>Supabase</mark>, <mark>Firebase</mark>, <mark>Electron</mark>
-  
-  <mark>Copilot</mark>, <mark>ChatGPT</mark>
+  I operate at the intersection of quality, architecture, and delivery, working across multiple product teams (web, mobile, backend) to define testing strategy, build reusable frameworks, and embed quality gates into CI/CD pipelines to support fast, safe releases at scale.
+
+  I have deep hands-on experience with mobile platforms, including both testing and development of Kotlin Multiplatform (KMP) applications, and building automation and tooling around shared cross-platform architectures.
+
+  Core strengths:
+  <mark>Quality Strategy & Enablement</mark>,
+  <mark>Test & Automation Framework Design</mark>,
+  <mark>Cross-platform Architecture (Web / Mobile / KMP)</mark>,
+  <mark>CI/CD & Release Quality Gates</mark>,
+  <mark>Cross-team Technical Leadership</mark>.
+
+  Key technologies and frameworks:
+  <mark>TypeScript</mark>, <mark>Playwright</mark>, <mark>WebdriverIO</mark>,
+  <mark>Kotlin</mark>, <mark>Kotlin Multiplatform</mark>,
+  <mark>iOS</mark>, <mark>Android</mark>, <mark>Appium</mark>,
+  <mark>GitHub Actions</mark>, <mark>CircleCI</mark>, <mark>Jenkins</mark>,
+  <mark>Docker</mark>, <mark>Kubernetes</mark>,
+  <mark>AWS</mark>, <mark>Azure</mark>, <mark>GCP</mark>,
+  <mark>k6</mark>, <mark>JMeter</mark>,
+  <mark>PostgreSQL</mark>, <mark>MSSQL</mark>, <mark>MongoDB</mark>.
 # Projects Section
-projects_title: OpenSource Projects
-
-# Experience Section
-# experience_title: Experience
-
-# Education Section
-# educaton_title: Education
-
-# More Section
-# more_title: A Little More About Me
-# more_content: | # this will include new lines to allow paragraphs
-#   Alongside my interests in software testing some of my other interests and hobbies are:
-#    - Music
-#    - Gaming
-#    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-# darkmode: never
+projects_title: Open Source
 
 # Footer
 footer_show_references: false
